@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GFG 
+public class Guess_the_number 
 {
 	public static void
 	guessingNumberGame()
@@ -60,3 +60,4 @@ public class GFG
 		guessingNumberGame();
 	}
 }
+
