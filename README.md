@@ -18,16 +18,16 @@ This is a simple Java console-based **Guess the Number** game. The program rando
 
 ## 🚀 How to Run
 
-1. **Save the file** as `GFG.java`
+1. **Save the file** as `Guess_the_number.java`
 2. **Compile** the program:
 
    ```bash
-   javac GFG.java
+   javac Guess_the_number.java
    ```
 3. **Run** the program:
 
    ```bash
-   java GFG
+   java Guess_the_number
    ```
 
 ---
